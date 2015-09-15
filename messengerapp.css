@@ -1,0 +1,75 @@
+body {
+	  background: url(costume.jpg);
+	  background-size: cover;
+	  margin: 0;
+	  color: white;
+	  font-family: athelas;
+}
+div {
+	margin: 0, 0, 20px, 0;
+	
+}
+
+ul {
+	text-align: left;
+	padding: 10px;
+	background: rgba(0, 0, 0, 0.5);
+	font-size: 20px;
+	 
+
+}
+li {
+	display: inline;
+	padding: 0px 15px 0px 0px;
+
+}
+
+h1 {
+	font-size: 50px;
+	color: rgba(255,255,255,.5);
+	text-align: center;
+}
+p {
+	font-size: 20px;
+	color: rgba(255,255,255,.5);
+	text-align: center;
+
+}
+form {
+	right: 251px;
+
+}
+input {
+	padding: 8px;
+	right: 25px;
+
+}
+input[type="text"] {
+	border: none;
+	margin-left: 20px;
+}
+input[type="password"] {
+	margin: 15px 0px 0px 20px;
+	
+	border: none;
+	
+}
+button {
+	width: 120px;
+	padding: 16px;
+	background-color: rgba(133, 68, 176, 0.75);
+	font-family: athelas;
+	font-size: 16px;
+	right: 25px;
+	margin-top: 20px;
+	margin-left: 80%;
+	margin-bottom: 7px;
+
+}
+img {
+	position: inline-block;
+	margin: 460px 0px 20px 40%;
+	border: 7px solid white;
+	border-radius: 20px;
+
+}
